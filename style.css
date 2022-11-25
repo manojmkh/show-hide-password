@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(119, 0, 128);
+}
+.password{
+    background: #fff;
+    width: 32%;
+    padding: 5px 20px;
+    margin: 245px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.password input{
+    width: 100%;
+    padding: 10px 0px;
+    border: 0;
+    outline: 0;
+}
+.password img{
+    height: 32px;
+    cursor: pointer;
+
+}
